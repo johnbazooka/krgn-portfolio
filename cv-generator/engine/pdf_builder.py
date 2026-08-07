@@ -72,7 +72,7 @@ class CVBuilder:
         }
         now = datetime.now()
         mes = months_es.get(now.strftime("%B"), now.strftime("%B"))
-        text = f"CV {nombre} - {mes} {now.strftime('%Y')}"
+        text = f"CV {nombre} · {mes} {now.strftime('%Y')}"
         tw = c.stringWidth(text, S.FUENTES["regular"], 7)
         c.drawString((self.W - tw) / 2, y, text)
 
@@ -281,7 +281,7 @@ class CVBuilder:
         educacion = self.data.get("educacion", [])
         if educacion:
             y -= 4
-            y = self._draw_section_title(y, "Educacion", x_start, x_end)
+            y = self._draw_section_title(y, "Educación", x_start, x_end)
             for edu in educacion:
                 titulo = f"{edu.get('titulo', '')} - {edu.get('institucion', '')} ({edu.get('periodo', '')})"
                 y = self._draw_wrapped(
@@ -353,7 +353,7 @@ class CVBuilder:
 
         educacion = self.data.get("educacion", [])
         if educacion:
-            sy = self._draw_section_title(sy, "Educacion", sidebar_x, sidebar_end)
+            sy = self._draw_section_title(sy, "Educación", sidebar_x, sidebar_end)
             for edu in educacion:
                 titulo = edu.get("titulo", "")
                 inst = edu.get("institucion", "")

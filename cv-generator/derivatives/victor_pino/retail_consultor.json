@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "type": "derivative",
+    "persona_id": "victor_pino",
+    "derivative_id": "retail_consultor"
+  },
+  "config": {
+    "objetivo_laboral": "Consultor de Belleza | Vendedor Polifuncional Retail",
+    "perfil_profesional": "Consultor de belleza con 7+ años de experiencia en venta consultiva retail. Especialista en gestión de cartera de clientes, cumplimiento de metas y reporte de stock. Experiencia con marcas premium: L'Oréal, Maybelline, Garnier, NYX, Nivea. Capacidad de capacitación a nuevos colaboradores.",
+    "experiencias_incluir": ["loreal_2026", "natura_2023", "preunic_2022", "sodimac_2015"],
+    "habilidades_destacar": [
+      "Venta consultiva", "Gestión de cartera", "Cumplimiento de metas",
+      "Manejo de caja", "Control de inventario", "Capacitación",
+      "Trabajo en equipo", "Liderazgo", "Adaptabilidad", "Proactividad"
+    ],
+    "layout": "single_col",
+    "paleta": "violeta_creativo"
+  }
+}

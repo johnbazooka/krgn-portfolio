@@ -1,0 +1,168 @@
+{
+  "_meta": {
+    "version": "3.0",
+    "type": "master",
+    "persona_id": "victor_pino",
+    "description": "Profile for Victor Pino Alonso"
+  },
+  "persona": {
+    "nombre_completo": "Víctor Manuel Pino Alonso",
+    "nombre_corto": "Víctor",
+    "contacto": {
+      "telefono": "+56 9 3116 4777",
+      "email": "v.pino.alonso@gmail.com"
+    },
+    "ubicacion": "Lo Prado, Región Metropolitana",
+    "disponibilidad_base": "Post-Octubre 2026 (full-time post-SENCE)"
+  },
+  "experiencia": [
+    {
+      "id": "krgn_personal",
+      "empresa": "Proyecto Personal",
+      "cargo": "Desarrollador Python",
+      "area": "desarrollo",
+      "periodo": { "inicio": "2024-12", "fin": "presente" },
+      "duracion_texto": "Dic 2024 - Presente (1+ año)",
+      "ubicacion": "Santiago, Chile",
+      "responsabilidades": [
+        "Pipeline de datos: recolección, limpieza y transformación desde JSON y SQLite hacia reportes y dashboards",
+        "Dashboards financieros: seguimiento de ingresos bloqueados por trabajo pendiente con visualización en tiempo real",
+        "Sistema de priorización: algoritmo que clasifica tareas según urgencia, dependencias y energía disponible",
+        "Análisis de patrones: correlaciones entre horario, energía y productividad",
+        "Reportes automatizados: generación de PDFs y reportes desde datos estructurados",
+        "Web scraping: monitoreo automático de sitios externos con detección de cambios"
+      ],
+      "logros": [
+        "900+ commits en un año de desarrollo continuo",
+        "Sistema OOP modular con arquitectura de 10 dominios"
+      ],
+      "habilidades": ["Python", "OOP", "SQLite", "JSON", "Git", "ReportLab", "pytest"]
+    },
+    {
+      "id": "loreal_2026",
+      "empresa": "L'Oréal Chile (DBS Costanera Center)",
+      "cargo": "Consultor de Belleza",
+      "area": "retail_moda",
+      "periodo": { "inicio": "2026-04", "fin": "2026-05" },
+      "duracion_texto": "Abr - May 2026",
+      "ubicacion": "Santiago",
+      "responsabilidades": [
+        "Campaña Día de la Madre — promoción de productos L'Oréal (Maybelline, Garnier, NYX)",
+        "Reporte de stock y ventas con evidencia fotográfica en tiempo real"
+      ],
+      "logros": [
+        "DBS solicitó datos de contacto para futuras campañas"
+      ],
+      "habilidades": ["Venta consultiva", "Reporte de stock", "Visual merchandising"]
+    },
+    {
+      "id": "natura_2023",
+      "empresa": "Natura",
+      "cargo": "Consultor de Belleza",
+      "area": "venta_directa",
+      "periodo": { "inicio": "2023-01", "fin": "2025-12" },
+      "duracion_texto": "2023 - 2025 (3 años)",
+      "ubicacion": "Santiago",
+      "responsabilidades": [
+        "Venta consultiva con gestión de cartera de clientes",
+        "Cumplimiento de metas mensuales",
+        "Expansión de ventas online (WhatsApp, Instagram)",
+        "Conocimiento técnico de componentes y activos"
+      ],
+      "habilidades": ["Venta consultiva", "Gestión de cartera", "E-commerce", "Cumplimiento de metas"]
+    },
+    {
+      "id": "preunic_2022",
+      "empresa": "PREUNIC S.A.",
+      "cargo": "Cajero / Vendedor",
+      "area": "retail_general",
+      "periodo": { "inicio": "2022-01", "fin": "2024-12" },
+      "duracion_texto": "2022 - 2024 (3 años)",
+      "ubicacion": "Santiago",
+      "responsabilidades": [
+        "Gestión de caja y control de stock e inventarios",
+        "Capacitación a nuevos colaboradores",
+        "Marcas: L'Oréal, Nivea, Maybelline"
+      ],
+      "habilidades": ["Manejo de caja", "Control de inventario", "Capacitación", "Trabajo en equipo"]
+    },
+    {
+      "id": "acz_2018",
+      "empresa": "ACZ Producciones",
+      "cargo": "Community Manager",
+      "area": "marketing",
+      "periodo": { "inicio": "2018-01", "fin": "2018-06" },
+      "duracion_texto": "2018 (6 meses)",
+      "ubicacion": "Santiago",
+      "responsabilidades": [
+        "Gestión de redes sociales del centro cultural Chincol 613 (Bellas Artes)",
+        "Creación de contenido visual, diseño gráfico y fotografía"
+      ],
+      "habilidades": ["Community management", "Diseño gráfico", "Fotografía"]
+    },
+    {
+      "id": "sodimac_2015",
+      "empresa": "Homecenter Sodimac",
+      "cargo": "Vendedor Área Jardín",
+      "area": "retail_general",
+      "periodo": { "inicio": "2015-01", "fin": "2017-02" },
+      "duracion_texto": "2015 - 2017 (1 año 2 meses)",
+      "ubicacion": "Santiago",
+      "responsabilidades": [
+        "Asesoría en catálogo de ~5000 productos",
+        "Una de las tiendas con mayor venta a nivel nacional"
+      ],
+      "habilidades": ["Venta consultiva", "Conocimiento de producto", "Atención al cliente"]
+    }
+  ],
+  "educacion": [
+    {
+      "id": "sence_2026",
+      "institucion": "Talento Digital / SENCE",
+      "titulo": "Bootcamp Full Stack Python (en curso)",
+      "periodo": "May - Oct 2026",
+      "estado": "en_curso"
+    },
+    {
+      "id": "google_da_2026",
+      "institucion": "Coursera",
+      "titulo": "Google Data Analytics Certificate (en curso)",
+      "periodo": "2026",
+      "estado": "en_curso"
+    },
+    {
+      "id": "uchile_arte",
+      "institucion": "Universidad de Chile",
+      "titulo": "Artes Plásticas, Mención Artista Visual (3 años)",
+      "periodo": "Incompleta",
+      "estado": "incompleta"
+    }
+  ],
+  "habilidades": {
+    "python": {
+      "nombre": "Python",
+      "items": ["OOP", "pytest", "Automatización", "Manipulación de datos"]
+    },
+    "data": {
+      "nombre": "Data Analytics",
+      "items": ["SQL básico (en formación)", "SQLite", "JSON estructurado", "Limpieza de datos"]
+    },
+    "visualizacion": {
+      "nombre": "Visualización",
+      "items": ["Reportes PDF", "Dashboards HTML", "Reportes de texto"]
+    },
+    "herramientas": {
+      "nombre": "Herramientas",
+      "items": ["Git / GitHub", "HTML", "CSS", "Bootstrap", "Spreadsheets", "FL Studio"]
+    },
+    "blandas": {
+      "nombre": "Habilidades Blandas",
+      "items": ["Trabajo en equipo", "Liderazgo", "Multitasking", "Adaptabilidad", "Proactividad"]
+    }
+  },
+  "idiomas": [
+    { "idioma": "Español", "nivel": "Nativo" },
+    { "idioma": "Inglés", "nivel": "Técnico" }
+  ],
+  "referencias": "Disponibles bajo solicitud"
+}

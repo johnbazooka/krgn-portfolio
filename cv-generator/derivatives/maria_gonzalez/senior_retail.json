@@ -6,10 +6,10 @@
   },
   "config": {
     "objetivo_laboral": "Vendedora Senior Retail",
-    "perfil_profesional": "Vendedora con 4+ anos de experiencia en retail de moda. Especialista en venta consultiva, gestion de inventario y cumplimiento de metas. Top 3 ventas nacionales en Q3 2024.",
+    "perfil_profesional": "Vendedora con 4+ años de experiencia en retail de moda. Especialista en venta consultiva, gestión de inventario y cumplimiento de metas. Top 3 ventas nacionales en Q3 2024.",
     "experiencias_incluir": ["retail_store_2023", "caja_falabella_2021"],
     "experiencias_ocultar": ["administrativo_2019"],
-    "habilidades_destacar": ["Venta consultiva", "Gestion de inventario", "Cierre de ventas", "Upselling", "Manejo de caja"],
+    "habilidades_destacar": ["Venta consultiva", "Gestión de inventario", "Cierre de ventas", "Upselling", "Manejo de caja"],
     "layout": "single_col",
     "paleta": "azul_acero"
   }

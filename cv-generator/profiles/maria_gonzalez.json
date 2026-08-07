@@ -6,13 +6,13 @@
     "description": "Example profile for demonstration"
   },
   "persona": {
-    "nombre_completo": "Maria Gonzalez Perez",
-    "nombre_corto": "Maria",
+    "nombre_completo": "María González Pérez",
+    "nombre_corto": "María",
     "contacto": {
       "telefono": "+56 9 8765 4321",
       "email": "maria.gonzalez@email.cl"
     },
-    "ubicacion": "Santiago Centro, Region Metropolitana",
+    "ubicacion": "Santiago Centro, Región Metropolitana",
     "disponibilidad_base": "Inmediata"
   },
   "experiencia": [
@@ -25,16 +25,16 @@
       "duracion_texto": "Ene 2023 - Presente",
       "ubicacion": "Santiago Centro",
       "responsabilidades": [
-        "Atencion al cliente y venta consultiva en area de moda femenina",
-        "Gestion de inventario y control de stock semanal",
+        "Atención al cliente y venta consultiva en área de moda femenina",
+        "Gestión de inventario y control de stock semanal",
         "Cumplimiento de metas de venta mensuales y estacionales",
-        "Capacitacion a nuevos colaboradores en tecnicas de venta"
+        "Capacitación a nuevos colaboradores en técnicas de venta"
       ],
       "logros": [
         "Top 3 ventas nacionales Q3 2024",
-        "Reduccion de mermas en 15% mediante control de inventario"
+        "Reducción de mermas en 15% mediante control de inventario"
       ],
-      "habilidades": ["Venta consultiva", "Gestion de inventario", "Atencion al cliente"]
+      "habilidades": ["Venta consultiva", "Gestión de inventario", "Atención al cliente"]
     },
     {
       "id": "caja_falabella_2021",
@@ -43,16 +43,16 @@
       "area": "retail_general",
       "periodo": { "inicio": "2021-03", "fin": "2022-12" },
       "duracion_texto": "Mar 2021 - Dic 2022",
-      "ubicacion": " Santiago",
+      "ubicacion": "Santiago",
       "responsabilidades": [
         "Manejo de caja registradora y medios de pago",
-        "Arqueo de caja diario y conciliacion de transacciones",
-        "Resolucion de problemas con clientes en el punto de venta"
+        "Arqueo de caja diario y conciliación de transacciones",
+        "Resolución de problemas con clientes en el punto de venta"
       ],
       "logros": [
         "Cero diferencias de caja en 18 meses consecutivos"
       ],
-      "habilidades": ["Manejo de caja", "Conciliacion", "Trabajo bajo presion"]
+      "habilidades": ["Manejo de caja", "Conciliación", "Trabajo bajo presión"]
     },
     {
       "id": "administrativo_2019",
@@ -63,18 +63,18 @@
       "duracion_texto": "Jun 2019 - Dic 2020",
       "ubicacion": "Providencia",
       "responsabilidades": [
-        "Gestion documental y archivo de facturas",
-        "Coordinacion de reuniones y agenda directiva",
-        "Digitacion de datos en sistema ERP"
+        "Gestión documental y archivo de facturas",
+        "Coordinación de reuniones y agenda directiva",
+        "Digitación de datos en sistema ERP"
       ],
-      "habilidades": ["Office avanzado", "ERP", "Organizacion"]
+      "habilidades": ["Office avanzado", "ERP", "Organización"]
     }
   ],
   "educacion": [
     {
       "id": "inacap_2018",
       "institucion": "INACAP",
-      "titulo": "Tecnico en Administracion",
+      "titulo": "Técnico en Administración",
       "periodo": "2016-2018",
       "estado": "completa"
     }
@@ -83,22 +83,22 @@
     "venta": {
       "emoji": "",
       "nombre": "Ventas y Retail",
-      "items": ["Venta consultiva", "Cierre de ventas", "Upselling", "Gestion de clientes VIP"]
+      "items": ["Venta consultiva", "Cierre de ventas", "Upselling", "Gestión de clientes VIP"]
     },
     "admin": {
       "emoji": "",
-      "nombre": "Administracion",
+      "nombre": "Administración",
       "items": ["Manejo de caja", "Control de stock", "Office avanzado", "ERP"]
     },
     "blandas": {
       "emoji": "",
       "nombre": "Habilidades Blandas",
-      "items": ["Comunicacion efectiva", "Trabajo en equipo", "Liderazgo", "Resolucion de problemas"]
+      "items": ["Comunicación efectiva", "Trabajo en equipo", "Liderazgo", "Resolución de problemas"]
     }
   },
   "idiomas": [
-    { "idioma": "Espanol", "nivel": "Nativo" },
-    { "idioma": "Ingles", "nivel": "Intermedio" }
+    { "idioma": "Español", "nivel": "Nativo" },
+    { "idioma": "Inglés", "nivel": "Intermedio" }
   ],
   "referencias": "Disponibles bajo solicitud"
 }

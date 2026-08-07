@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "type": "derivative",
+    "persona_id": "victor_pino",
+    "derivative_id": "data_analyst_jr"
+  },
+  "config": {
+    "objetivo_laboral": "Data Analyst Jr | Python Developer",
+    "perfil_profesional": "Profesional con background en producción musical (8 años) y venta consultiva retail (7 años), en transición hacia data analytics y desarrollo Python. Combino pensamiento analítico con capacidad creativa: descompongo problemas complejos, itero rápidamente y comunico hallazgos con claridad. Construí un sistema personal de gestión y análisis de datos en Python con pipelines ETL, dashboards financieros y reportes automatizados. Más de 900 commits en un año de desarrollo continuo.",
+    "experiencias_incluir": ["krgn_personal", "loreal_2026", "natura_2023"],
+    "habilidades_destacar": [
+      "OOP", "pytest", "Automatización", "Manipulación de datos",
+      "SQLite", "JSON estructurado", "Limpieza de datos",
+      "Reportes PDF", "Dashboards HTML",
+      "Git / GitHub", "Trabajo en equipo", "Adaptabilidad", "Proactividad"
+    ],
+    "layout": "single_col",
+    "paleta": "azul_acero"
+  }
+}
