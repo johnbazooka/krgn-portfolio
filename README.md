@@ -15,4 +15,4 @@ This portfolio showcases real, working software built to solve practical problem
 
 **Tech stack:** Python (OOP), JSON, SQLite, ReportLab, pytest, Git
 
-**Author:** Víctor Pino Alonso — [GitHub](https://github.com/johnbazooka) | [LinkedIn](https://www.linkedin.com/in/victor-pino-alonso)
+**Author:** Víctor Pino Alonso — [GitHub](https://github.com/johnbazooka) | [LinkedIn](https://www.linkedin.com/in/víctor-pino-alonso-35243a17a/)
