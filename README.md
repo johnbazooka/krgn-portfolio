@@ -1,6 +1,6 @@
 # KRGN Portfolio
 
-Selected modules from a personal productivity and data analytics system built in Python.
+Selected modules from my personal productivity and data analytics system built in Python.
 
 ## Modules
 
