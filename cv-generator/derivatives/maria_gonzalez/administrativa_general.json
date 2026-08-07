@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "type": "derivative",
+    "persona_id": "maria_gonzalez",
+    "derivative_id": "administrativa_general"
+  },
+  "config": {
+    "objetivo_laboral": "Administrativa / Asistente Administrativa",
+    "perfil_profesional": "Profesional administrativa con experiencia en gestion documental, digitacion ERP y coordinacion de agenda. Organizada, responsable y con manejo avanzado de Office.",
+    "experiencias_incluir": ["administrativo_2019", "caja_falabella_2021"],
+    "experiencias_ocultar": ["retail_store_2023"],
+    "habilidades_destacar": ["Office avanzado", "ERP", "Organizacion", "Conciliacion"],
+    "layout": "two_col_sidebar",
+    "paleta": "verde_tech"
+  }
+}
